@@ -122,7 +122,7 @@ class _MyAppState extends State<MyApp> {
     return MaterialApp(
         home: Scaffold(
       appBar: AppBar(
-        title: const Text('Plugin example app'),
+        title: const Text('Listening notifications app'),
       ),
       body: Column(
         mainAxisAlignment: MainAxisAlignment.center,
